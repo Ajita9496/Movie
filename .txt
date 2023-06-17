@@ -1,0 +1,3 @@
+ // "test": "echo \"Error: no test specified\" && exit 1",
+    // "build": "react-scripts build",
+    "react-app-rewired": "^2.2.1"
